@@ -115,7 +115,7 @@ Muncul otomatis begitu jawaban terkirim. Menampilkan jam dan tanggal untuk diper
 1. Buka halaman [**Releases**](https://github.com/lurma813/asestar-sman1tahunan/releases) di repositori ini.
 2. Unduh installer terbaru (`asestar-setup.exe`).
 3. Jalankan installer, lalu ikuti petunjuk di layar (**Next → Install → Finish**).
-4. Buka aplikasi dari **Start Menu** atau **shortcut Desktop** *(sesuaikan dengan opsi yang Anda aktifkan di Inno Setup)*.
+4. Buka aplikasi dari **Start Menu** atau **shortcut Desktop** "Asestar".
 
 <p align="center">
   <img src="https://i.imgur.com/Xx21ACY.png" alt="Installer ASESTAR" width="480">
