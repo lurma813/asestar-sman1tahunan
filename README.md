@@ -21,13 +21,9 @@ Aplikasi desktop mode terkunci (kiosk) untuk melaksanakan asesmen/ujian berbasis
 
 **ASESTAR** adalah aplikasi desktop yang membantu sekolah menjalankan asesmen digital dengan lingkungan yang terkontrol. Peserta memindai kode QR dari pengawas, lalu halaman asesmen (Microsoft Forms) dibuka dalam **jendela layar penuh yang terkunci**, sehingga peserta tidak bisa berpindah ke aplikasi lain selama asesmen berlangsung.
 
-> ℹ️ Repositori ini hanya berisi **hasil kompilasi (`.exe`)**. Source code tidak dipublikasikan.
-
 ---
 
 ## 📸 Tampilan Aplikasi
-
-> Ganti setiap placeholder di bawah dengan screenshot asli. Simpan gambar di folder `docs/screenshots/`.
 
 ### 1. Splash Screen
 Muncul saat aplikasi dibuka, dilengkapi progress bar dan pesan status saat sistem disiapkan.
