@@ -105,23 +105,23 @@ Muncul otomatis begitu jawaban terkirim. Menampilkan jam dan tanggal untuk diper
 | Sistem operasi | Windows 10 / 11 (64-bit) |
 | Kamera | Diperlukan untuk memindai kode QR |
 | Koneksi internet | Diperlukan untuk membuka Microsoft Forms |
-| Ruang disk | Sekitar `___ MB` *(isi sesuai ukuran terinstal)* |
+| Ruang disk | Sekitar `661 MB`|
 
 ---
 
 ## 🚀 Cara Menggunakan
 
 ### Instalasi
-1. Buka halaman [**Releases**](../../releases) di repositori ini.
-2. Unduh installer terbaru (`ASESTAR-Setup.exe` *(sesuaikan nama berkas)*).
+1. Buka halaman [**Releases**](https://github.com/lurma813/asestar-sman1tahunan/releases) di repositori ini.
+2. Unduh installer terbaru (`asestar-setup.exe`).
 3. Jalankan installer, lalu ikuti petunjuk di layar (**Next → Install → Finish**).
 4. Buka aplikasi dari **Start Menu** atau **shortcut Desktop** *(sesuaikan dengan opsi yang Anda aktifkan di Inno Setup)*.
 
 <p align="center">
-  <img src="docs/screenshots/00-installer.png" alt="Installer ASESTAR" width="480">
+  <img src="https://i.imgur.com/Xx21ACY.png" alt="Installer ASESTAR" width="480">
 </p>
 
-> ⚠️ Jangan memindahkan, mengubah nama, atau menghapus berkas di dalam folder instalasi (terutama `_data_`). Jika berkas ini hilang atau rusak, aplikasi tidak dapat dibuka. Jika itu terjadi, instal ulang aplikasi.
+> ⚠️ Jangan memindahkan, mengubah nama, atau menghapus berkas di dalam folder instalasi. Jika berkas ini hilang atau rusak, aplikasi tidak dapat dibuka. Jika itu terjadi, instal ulang aplikasi.
 
 ### Pembaruan & Penghapusan
 - **Memperbarui**: unduh installer versi terbaru dan jalankan; instal di lokasi yang sama.
@@ -169,8 +169,8 @@ Di folder `AsestarData` pada `%LOCALAPPDATA%`. Data sesi asesmen dihapus otomati
 ```
 <folder instalasi>/
 ├── ASESTAR.exe      # Aplikasi utama
-├── _data_           # Paket data aplikasi (jangan diubah)
-├── _icon_           # Logo untuk splash screen
+├── _data_           #
+├── _icon_           #
 └── unins000.exe     # Uninstaller
 ```
 
@@ -186,15 +186,10 @@ Di folder `AsestarData` pada `%LOCALAPPDATA%`. Data sesi asesmen dihapus otomati
 
 ## 📬 Kontak & Dukungan
 
-Menemukan bug atau punya saran? Buka [**Issues**](../../issues) di repositori ini.
+Menemukan bug atau punya saran? Buka [**Issues**](https://github.com/lurma813/asestar-sman1tahunan/issues) di repositori ini.
 
 <!-- Isi dengan kontak yang diinginkan -->
-- Pengembang: `Nama Anda`
-- Email: `email@contoh.com`
+- Pengembang: `Amrul Fatah`
+- Email: `amrulfattah150297@gmail.com`
 
 ---
-
-## 📄 Lisensi
-
-<!-- Pilih salah satu dan sesuaikan -->
-Hak cipta © 2025 `Nama Anda / Instansi`. Seluruh hak dilindungi. Distribusi hanya dalam bentuk biner; source code tidak disertakan.
