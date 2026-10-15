@@ -10,7 +10,7 @@
 Aplikasi desktop mode terkunci (kiosk) untuk melaksanakan asesmen/ujian berbasis Microsoft Forms secara lebih tertib dan terawasi.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
-![Versi](https://img.shields.io/badge/versi-1.0-2c5aa0)
+![Versi](https://img.shields.io/badge/versi-2.0-2c5aa0)
 ![Status](https://img.shields.io/badge/rilis-binary%20only-lightgrey)
 
 </div>
