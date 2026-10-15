@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ganti dengan logo aplikasi -->
-<img src="[docs/screenshots/logo.png](https://i.imgur.com/DWZZ1Lf.png)" alt="Logo ASESTAR" width="120">
+<img src="https://i.imgur.com/DWZZ1Lf.png" alt="Logo ASESTAR" width="120">
 
 # ASESTAR
 
