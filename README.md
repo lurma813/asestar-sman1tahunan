@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ganti dengan logo aplikasi -->
-<img src="docs/screenshots/logo.png" alt="Logo ASESTAR" width="120">
+<img src="[docs/screenshots/logo.png](https://i.imgur.com/DWZZ1Lf.png)" alt="Logo ASESTAR" width="120">
 
 # ASESTAR
 
@@ -33,49 +33,32 @@ Aplikasi desktop mode terkunci (kiosk) untuk melaksanakan asesmen/ujian berbasis
 Muncul saat aplikasi dibuka, dilengkapi progress bar dan pesan status saat sistem disiapkan.
 
 <p align="center">
-  <img src="docs/screenshots/01-splash.png" alt="Splash Screen" width="320">
+  <img src="https://i.imgur.com/kd4Eq6d.png" alt="Splash Screen" width="320">
 </p>
 
-### 2. Halaman Utama / Pemindai QR
+### 2. Input Sumpah dan Halaman Utama
 Jendela utama berukuran potret yang tetap berada di atas jendela lain. Digunakan untuk memindai kode QR dari pengawas melalui kamera.
 
 <p align="center">
-  <img src="docs/screenshots/02-halaman-utama.png" alt="Halaman Utama" width="320">
+  <img src="https://i.imgur.com/wcx8ARy.png" alt="Input Sumpah" width="320">
 </p>
 
-### 3. Pemindaian QR Lewat Kamera
-Pratinjau kamera langsung di dalam aplikasi, dengan opsi berganti kamera.
-
 <p align="center">
-  <img src="docs/screenshots/03-scan-qr.png" alt="Pemindaian QR" width="320">
+  <img src="https://i.imgur.com/bpkxvGR.png" alt="Halaman Utama" width="320">
 </p>
 
 ### 4. Mode Asesmen (Layar Penuh)
 Halaman Microsoft Forms tampil layar penuh tanpa bingkai jendela, selalu di atas aplikasi lain.
 
 <p align="center">
-  <img src="docs/screenshots/04-mode-asesmen.png" alt="Mode Asesmen" width="720">
+  <img src="https://i.imgur.com/5qKUjPY.png" alt="Mode Asesmen" width="720">
 </p>
 
-### 5. Kontrol Panel Mengambang
-Panel kecil di pojok kanan bawah berisi jam, tanggal, status baterai, status jaringan, serta tombol **Kembali**, **Reload**, dan **Keluar**. Panel dapat dilipat.
-
-<p align="center">
-  <img src="docs/screenshots/05-kontrol-panel.png" alt="Kontrol Panel" width="360">
-</p>
-
-### 6. Konfirmasi Keluar
-Dialog peringatan agar peserta tidak keluar dari asesmen secara tidak sengaja.
-
-<p align="center">
-  <img src="docs/screenshots/06-konfirmasi-keluar.png" alt="Konfirmasi Keluar" width="420">
-</p>
-
-### 7. Layar "Submit Berhasil"
+### 5. Layar "Submit Berhasil"
 Muncul otomatis begitu jawaban terkirim. Menampilkan jam dan tanggal untuk diperlihatkan kepada pengawas.
 
 <p align="center">
-  <img src="docs/screenshots/07-submit-berhasil.png" alt="Submit Berhasil" width="720">
+  <img src="https://i.imgur.com/OFvvzrM.png" alt="Submit Berhasil" width="720">
 </p>
 
 ---
