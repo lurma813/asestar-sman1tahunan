@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ganti dengan logo aplikasi -->
-<img src="https://i.imgur.com/DWZZ1Lf.png" alt="Logo ASESTAR" width="720">
+<img src="https://i.imgur.com/DWZZ1Lf.png" alt="Logo ASESTAR" width="360">
 
 # ASESTAR
 
@@ -29,7 +29,7 @@ Aplikasi desktop mode terkunci (kiosk) untuk melaksanakan asesmen/ujian berbasis
 Muncul saat aplikasi dibuka, dilengkapi progress bar dan pesan status saat sistem disiapkan.
 
 <p align="center">
-  <img src="https://i.imgur.com/kd4Eq6d.png" alt="Splash Screen" width="320">
+  <img src="https://i.imgur.com/kd4Eq6d.png" alt="Splash Screen" width="720">
 </p>
 
 ### 2. Input Sumpah dan Halaman Utama
